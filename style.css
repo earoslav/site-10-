@@ -1,0 +1,150 @@
+.head2 {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.salles {
+    background-color: black;
+    border: 0px solid white;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10 15 10 15;
+    font-size: 25px;
+    font-family: sans-serif;
+    float: top;
+}
+nav {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 25px;
+    margin-top: 20px;
+}
+body {
+    background-color: E06969;
+    margin: 0px;
+}
+.one {
+    font-size: 30px;
+    margin-left: 180px;
+    float: top;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.two {
+    font-size: 30px;
+    margin-left: 250px;
+    float: top;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.three {
+    font-size: 30px;
+    margin-left: 250px;
+    float: top;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.four {
+    font-size: 30px;
+    margin-left: 250px;
+    float: top;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.profi {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+}
+td {
+    background-color: white;
+    padding: 0 50 50 50;
+    margin: 60px;
+}
+.img {
+    width: 600px;
+    height: 400px;
+    float: top;
+    
+}
+tr {
+    display: flex;
+    justify-content: space-around;
+}
+.telephone {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+.text {
+    font-size: 30px;
+    float: top;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.text2 {
+    font-size: 30px;
+    float: top;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.F09090 {
+    background-color: F09090;
+    padding: 25 150 25 150;
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+.FB5E5E {
+    background-color: FB5E5E;
+    padding: 25 150 25 150;
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+.A86565 {
+    background-color: A86565;
+    padding: 25 150 25 150;
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+.g922222 {
+    background-color: 922222;
+    padding: 25 150 25 150;
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+div {
+    float: left;
+    display: flex;
+}
+.img1 {
+    margin: 70 0 0 70;
+}
+
+.img2 {
+    height: 100px;
+    margin: 70 0 0 30;
+}
+.img3 {
+    height: 100px;
+    margin: 70 0 0 30;
+}
+.text3 {
+    margin: 80 0 0 40;
+    width: 400px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.head {
+    margin-top: 10px;
+}
